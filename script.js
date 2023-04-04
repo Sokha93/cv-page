@@ -32,3 +32,4 @@ const handleScroll = () => {
 };
 
 document.addEventListener('scroll', handleScroll);
+//this function (handleScroll) changes color on a tag while scroll
